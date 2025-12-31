@@ -139,3 +139,5 @@ python main.py
 - 手机控制需要安装ADB并连接手机
 - 手机需开启USB调试模式
 
+需要技术支持请联系该邮箱lanbao1573@foxmail.com
+
