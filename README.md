@@ -141,6 +141,4 @@ python main.py
 3.  **手机连接**: 使用手机控制功能时，手机需开启 **USB调试** 模式，并授权电脑连接。
 4.  **API 配额**: 请留意各云服务 API 的免费额度，超出后可能会产生费用。
 
-## 📄 License
-
-MIT License
+## 需要技术支持请联系邮箱：lanbao1573@foxmail.com
