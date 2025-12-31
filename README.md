@@ -160,3 +160,5 @@ python ui.py
 ## 📄 License
 
 MIT License
+
+## 技术支持请联系邮箱：lanbao1573@foxmail.com
